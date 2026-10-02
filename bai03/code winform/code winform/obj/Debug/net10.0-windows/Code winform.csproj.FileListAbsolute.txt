@@ -1,0 +1,17 @@
+C:\Users\maing\source\repos\code winform\code winform\obj\Debug\net10.0-windows\code winform.csproj.GenerateResource.cache
+C:\Users\maing\source\repos\code winform\code winform\obj\Debug\net10.0-windows\code winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maing\source\repos\code winform\code winform\obj\Debug\net10.0-windows\code winform.AssemblyInfoInputs.cache
+C:\Users\maing\source\repos\code winform\code winform\obj\Debug\net10.0-windows\code winform.AssemblyInfo.cs
+C:\Users\maing\source\repos\code winform\code winform\obj\Debug\net10.0-windows\code winform.csproj.CoreCompileInputs.cache
+C:\Users\maing\source\repos\code winform\code winform\obj\Debug\net10.0-windows\code_winform.Form1.resources
+C:\Users\maing\source\repos\Code winform\Code winform\bin\Debug\net10.0-windows\Code winform.exe
+C:\Users\maing\source\repos\Code winform\Code winform\bin\Debug\net10.0-windows\Code winform.deps.json
+C:\Users\maing\source\repos\Code winform\Code winform\bin\Debug\net10.0-windows\Code winform.runtimeconfig.json
+C:\Users\maing\source\repos\Code winform\Code winform\bin\Debug\net10.0-windows\Code winform.dll
+C:\Users\maing\source\repos\Code winform\Code winform\bin\Debug\net10.0-windows\Code winform.pdb
+C:\Users\maing\source\repos\Code winform\Code winform\obj\Debug\net10.0-windows\Code winform.dll
+C:\Users\maing\source\repos\Code winform\Code winform\obj\Debug\net10.0-windows\refint\Code winform.dll
+C:\Users\maing\source\repos\Code winform\Code winform\obj\Debug\net10.0-windows\Code winform.pdb
+C:\Users\maing\source\repos\Code winform\Code winform\obj\Debug\net10.0-windows\Code winform.genruntimeconfig.cache
+C:\Users\maing\source\repos\Code winform\Code winform\obj\Debug\net10.0-windows\ref\Code winform.dll
+C:\Users\maing\source\repos\Code winform\Code winform\obj\Debug\net10.0-windows\Code win.272F63FE.Up2Date
