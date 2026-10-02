@@ -1,0 +1,15 @@
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\bin\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.exe
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\bin\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.deps.json
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\bin\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.runtimeconfig.json
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\bin\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.dll
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\bin\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.pdb
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\obj\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\obj\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.AssemblyInfoInputs.cache
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\obj\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.AssemblyInfo.cs
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\obj\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.csproj.CoreCompileInputs.cache
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\obj\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.dll
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\obj\Debug\net10.0\refint\HeThongQuanLyPhuongTienGiaoThong.dll
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\obj\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.pdb
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\obj\Debug\net10.0\HeThongQuanLyPhuongTienGiaoThong.genruntimeconfig.cache
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\obj\Debug\net10.0\ref\HeThongQuanLyPhuongTienGiaoThong.dll
+C:\Users\maing\source\repos\HeThongQuanLyPhuongTienGiaoThong\HeThongQuanLyPhuongTienGiaoThong\obj\Debug\net10.0\HeThongQ.94454D1D.Up2Date
